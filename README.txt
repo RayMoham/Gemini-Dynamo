@@ -1,5 +1,5 @@
 
-# YouTube Video Flashcard Generator
+# YouTube Video Flashcard Generator - Dynamo
 
 ## Overview
 This application generates flashcards from YouTube video transcripts, making it a useful tool in educational settings. It features a backend built with FastAPI and utilizes Google's Vertex AI and Gemini models to process video content. In fronend, the interactive web interface is build via React. This application integrates advanced generative AI techniques to extract scripts, summarize text, and identify key educational concepts.
